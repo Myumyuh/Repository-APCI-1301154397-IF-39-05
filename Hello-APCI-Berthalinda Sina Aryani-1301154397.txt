@@ -1,0 +1,12 @@
+﻿Program Hello;
+Uses Crt;
+Begin
+    ClrScr;
+    Writeln(‘Hello’); //untuk mengeluarkan string ‘Hello’ di layar
+    Writeln(‘1301154397’); //untuk mengeluarkan string ‘1301154397’ di layar
+    Writeln(‘Raka Prakasa Maulana’); //untuk mengeluarkan string ‘Raka Prakasa Maulana’ di layar
+    Writeln(‘IF 39-05’); //untuk mengeluarkan string ‘IF 39-05’ di layar
+    Writeln(‘Berthalinda Sina Aryani’); //untuk mengeluarkan string ‘Berthalinda Sina Aryani’ di layar
+    Writeln(‘1301154383’); //untuk mengeluarkan string ‘1301154383’ di layar
+    Writeln(‘Modul 6’); //untuk mengeluarkan string ‘Modul 6’ di layar
+End
